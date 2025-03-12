@@ -1,4 +1,3 @@
-/* Build Script */
 CC = g++
 ISPC = ispc
 CFLAGS = -O2
